@@ -78,7 +78,7 @@ export const business = {
       detail:
         "A 30-minute visit. We scale above and below the gumline, polish the surface, take a digital X-ray if you have not had one in 12 months, and show you exactly what we see. You leave with a printed plan — not a sales pitch.",
       photo:
-        "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=800&q=80",
+        "https://images.pexels.com/photos/6502628/pexels-photo-6502628.jpeg?auto=compress&cs=tinysrgb&w=800",
       whatsappMsg: "Hi Smile Studio, I'd like to book a check-up and cleaning.",
     },
     {
